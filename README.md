@@ -32,13 +32,16 @@ Model Selection & Training:
 3. Deploy Streamlit and OpenCV to allow users a web ui in which to upload a video and have the video frames analyzed by your model.
 
 This problem set provides a clear path to address image analysis issues using OpenCV, with a focus on Facial Emotion Classification in video streams. It allows researchers or students to hone in on critical aspects such as data preprocessing, model selection, hyperparameter tuning, performance evaluation, and results interpretation.
-    <br /><br /><br />
+    <br /><br />
+    
+****** Fully functional Jupyternotebook will be added upon hack-a-thon challenge completion  ******
+    
+    <br />
 
 
 
 
   </p>
-  <br />
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br />
 
