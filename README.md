@@ -34,12 +34,8 @@ Model Selection & Training:
 This problem set provides a clear path to address image analysis issues using OpenCV, with a focus on Facial Emotion Classification in video streams. It allows researchers or students to hone in on critical aspects such as data preprocessing, model selection, hyperparameter tuning, performance evaluation, and results interpretation.
     <br /><br />
     
--------------------- Fully functional Jupyternotebook will be added upon hack-a-thon challenge completion  --------------------
+-------------- Fully functional Jupyternotebook will be added upon hack-a-thon challenge completion  --------------
     
-    <br />
-
-
-
 
   </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
