@@ -1,1 +1,2 @@
-fer.ipynb
+# ignore ALL .log files
+*.ipynb
