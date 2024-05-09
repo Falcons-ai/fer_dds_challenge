@@ -22,6 +22,10 @@
 
 Objective: Develop an efficient facial emotion classification system employing OpenCV/Tensorflow to identify facial emotions within video streams. The goal is to achieve a high level of accuracy, low latency, and minimal computational overhead.
 
+Similar to: <br/>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Msk1drgWEdY/0.jpg)](https://www.youtube.com/watch?v=Msk1drgWEdY)
+
 Data Source: A video dataset or a combination of image datasets featuring the target objects in states of emotion.
 
 Preprocessing (if needed): Standardize or augment the images/video frames to improve model generalization, if necessary, while preserving the aspect ratio and critical features.
@@ -33,9 +37,9 @@ Model Selection & Training:
 
 This problem set provides a clear path to address image analysis issues using OpenCV, with a focus on Facial Emotion Classification in video streams. It allows researchers or students to hone in on critical aspects such as data preprocessing, model selection, hyperparameter tuning, performance evaluation, and results interpretation.
     <br /><br />
-    
+
 -------------- Fully functional Jupyternotebook will be added upon hack-a-thon challenge completion  --------------
-    
+
 
   </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
